@@ -1,0 +1,8 @@
+1: '54 Spectacle Hill Rd, Bolton' https://www.redfin.com/MA/Bolton/54-Spectacle-Hill-Rd-01740/home/16477017
+2: '7 Bridge Rd, Lancaster' https://www.redfin.com/MA/Lancaster/7-Bridge-Rd-01523/home/16528267
+3: '29 Robinson Rd, Littleton' https://www.redfin.com/MA/Littleton/29-Robinson-Rd-01460/home/8565900
+4: '31 Lancaster Rd, Bolton' https://www.redfin.com/MA/Bolton/31-Lancaster-Rd-01740/home/16476938
+5: '9 Sargent Rd, Bolton' https://www.redfin.com/MA/Bolton/9-Sargent-Rd-01740/home/16476934
+6: '41 Wilder Rd, Bolton' http://www.realtor.com/realestateandhomes-detail/41-Wilder-Rd_Bolton_MA_01740_M47565-43045
+7: '472 Sugar Rd, Bolton' http://www.realtor.com/realestateandhomes-detail/472-Sugar-Rd_Bolton_MA_01740_M48561-54909
+8: '3 E End Rd, Bolton'http://www.realtor.com/realestateandhomes-detail/3-E-End-Rd_Bolton_MA_01740_M42935-79315
