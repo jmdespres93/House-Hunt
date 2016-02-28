@@ -7,4 +7,5 @@
 7: '472 Sugar Rd, Bolton' http://www.realtor.com/realestateandhomes-detail/472-Sugar-Rd_Bolton_MA_01740_M48561-54909
 8: '3 E End Rd, Bolton' http://www.realtor.com/realestateandhomes-detail/3-E-End-Rd_Bolton_MA_01740_M42935-79315
 9: '2 Clover Hill Rd, Acton'http://www.realtor.com/realestateandhomes-detail/2-Clover-Hill-Rd_Acton_MA_01720_M36784-74852
-10: 'Address not available, Hardvard' http://www.realtor.com/realestateandhomes-detail/Harvard_MA_01451_M41620-72359
+10: 'Address not available, Harvard' http://www.realtor.com/realestateandhomes-detail/Harvard_MA_01451_M41620-72359
+11:'3 Old Harvard Rd, Boxborough' https://www.redfin.com/MA/Boxborough/3-Old-Harvard-Rd-01719/home/8435027
