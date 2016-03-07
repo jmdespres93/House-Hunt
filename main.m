@@ -16,8 +16,10 @@ if str=='y'
     weights(8)=input('days on market: ');
     weights(9)=input('fireplaces: ');
     weights(10)=input('garage: ');   
+    weights(11)=input('taxes:  ');
+    
 else    
-    weights = [10 7 9 6 7 5 3 2 4 4];   
+    weights = [10 7 6 6 7 5 3 2 4 4 5];   
 end
 
 ranking = rankHouses(houses, weights);

@@ -8,4 +8,15 @@
 8: '3 E End Rd, Bolton' http://www.realtor.com/realestateandhomes-detail/3-E-End-Rd_Bolton_MA_01740_M42935-79315
 9: '2 Clover Hill Rd, Acton'http://www.realtor.com/realestateandhomes-detail/2-Clover-Hill-Rd_Acton_MA_01720_M36784-74852
 10: 'Address not available, Harvard' http://www.realtor.com/realestateandhomes-detail/Harvard_MA_01451_M41620-72359
-11:'3 Old Harvard Rd, Boxborough' https://www.redfin.com/MA/Boxborough/3-Old-Harvard-Rd-01719/home/8435027
+11: '3 Old Harvard Rd, Boxborough' https://www.redfin.com/MA/Boxborough/3-Old-Harvard-Rd-01719/home/8435027
+12: '26 High St, Stow' https://www.redfin.com/MA/Stow/26-High-St-01775/home/8701021
+13: '235 Union Tpke, Concord' https://www.redfin.com/MA/Concord/234-Union-Tpke-01742/home/11588199
+14: '51 Randall Rd, Berlin' https://www.redfin.com/MA/Berlin/51-Randall-Rd-01503/home/16472257
+15: '503 Hilltop Rd, Lancaster' https://www.redfin.com/MA/Lancaster/503-Hilltop-Rd-01523/home/16528608
+16: '75 Hiley Brook Rd, Stow' https://www.redfin.com/MA/Stow/75-Hiley-Brook-Rd-01775/home/8696667
+17: '302 Great Rd, Stow' https://www.redfin.com/MA/Stow/302-Great-Rd-01775/home/11796424
+18: '151 Hudson Rd, Stow' https://www.redfin.com/MA/Stow/151-Hudson-Rd-01775/home/8695200
+19: '34 Great Rd, Stow' https://www.redfin.com/MA/Stow/34-Great-Rd-01775/home/8696202
+20: '32 Old Shirley Rd, Harvard' https://www.redfin.com/MA/Harvard/32-Old-Shirley-Rd-01451/home/14815905
+21: '70 Mill Rd, Littleton' https://www.redfin.com/MA/Littleton/70-Mill-Rd-01460/home/8571480
+22: '20 Coburn Rd, Berlin' https://www.redfin.com/MA/Berlin/20-Coburn-Rd-01503/home/16472418

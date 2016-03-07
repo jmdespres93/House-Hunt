@@ -9,7 +9,7 @@ function ranking = rankHouses(houses, weights)
 %
 %   houses = [addressn, pricen, square ftn, landn, dist to benn, dist to
 %               jas(stow)n, dist to jas(framingham)n, dist to bostonn, 
-%               days on marketn, fireplacen, garagen]
+%               days on marketn, fireplacen, garagen, taxesn]
 %
 %   weights = [price weight, square ft weight, land weight, ben weight, jas
 %   stow weight, jas framingham weight, dist to boston weight, days on market weight]
@@ -31,6 +31,7 @@ bostmax = max(houses(:,8));
 marketdaymax = max(houses(:,9));
 fpmax = max(houses(:,10));
 garmax = max(houses(:,11));
+taxmax = max(houses(:,12));
 
 pricescore = (1-(houses(:,2)./pricemax))*weights(1);
 sqftscore = (houses(:,3)./sqftmax)*weights(2);
@@ -42,12 +43,13 @@ bostscore = (1-(houses(:,8)./bostmax))*weights(7);
 marketdayscore = (houses(:,9)./marketdaymax)*weights(8);
 fpscore = (houses(:,10)./fpmax)*weights(9);
 garscore = (houses(:,11)./garmax)*weights(10);
+taxscore = (1-(houses(:,12)./taxmax))*weights(11);
 
 for n=1:size(houses, 1)
     
    scores(n,2) = pricescore(n)+sqftscore(n)+landscore(n)+benscore(n)+...
                  stowscore(n)+framscore(n)+bostscore(n)+marketdayscore(n) + ...
-                 fpscore(n)+garscore(n)
+                 fpscore(n)+garscore(n)+taxscore(n);
     
 end
 
